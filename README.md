@@ -86,6 +86,6 @@ The fine-tuned VGG16 model delivered the best performance.
 
 ---
 
-## ?? Conclusion
+## Conclusion
 
 Fine-tuned VGG16 significantly outperforms the custom CNN in aerial scene classification, achieving 93% accuracy. Augmentation, preprocessing, and selective training strategies contributed to strong model generalization. Future work may include applying attention mechanisms or leveraging more recent transformer-based architectures.
