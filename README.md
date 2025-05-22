@@ -77,9 +77,7 @@ The fine-tuned VGG16 model delivered the best performance.
 
 ### 3.2 Confusion Matrix
 
-> *(Insert confusion matrix image for VGG16 fine-tuned model)*  
-`![![image](https://github.com/user-attachments/assets/d09740f3-bdb0-4d63-ae12-87c78bbc0520)
-)`
+> *![image](https://github.com/user-attachments/assets/249913d4-050a-48cc-b850-bd3851550997)*  
 
 **Highlights**:
 1. Most classes correctly predicted (e.g., 0, 1, 2, 3, 7, 8 show 20/20 correct)
